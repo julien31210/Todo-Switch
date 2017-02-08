@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+
+body{
+	background-color: #EEE;
+	font-family: Open Sans;
+}
+
+.valide{
+	text-decoration: line-through;
+}
+
+input{
+	height: 50px;
+	width: 250px;
+}
+
+button{
+	height: 50px;
+	width: 100px;
+}
