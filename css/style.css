@@ -16,7 +16,11 @@ input{
 	width: 250px;
 }
 
-button{
+.filtre{
 	height: 50px;
 	width: 100px;
+}
+
+ul {
+	list-style: none;
 }
